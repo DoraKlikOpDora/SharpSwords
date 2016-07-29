@@ -1,2 +1,3 @@
 # SharpSwords
-SharpSwords Texts
+
+Repository for SharpSwords texts
